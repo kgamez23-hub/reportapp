@@ -158,8 +158,8 @@ class _RegisterScreenState extends State<RegisterScreen> {
                   Navigator.pop(context);
                 },
                 colorFondo: Colors.white,
-                colorTexto: Color.fromRGBO(44, 5, 112, 1),
-                colorBorde: Color.fromRGBO(44, 5, 112, 1),
+                colorTexto:  Color.fromRGBO(44, 5, 112, 1),
+                colorBorde:  Color.fromRGBO(44, 5, 112, 1),
                 paddingHorizontal: 40,
                 paddingVertical: 10,
               ),
